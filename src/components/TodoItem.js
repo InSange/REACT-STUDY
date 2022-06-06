@@ -46,11 +46,11 @@ const CheckCircle = styled.div`
             color: #38d9a9;
         `:
         css`
-            &:hover(
+            &:hover {
                 border: 1px solid #38d9a9;
                 color: #38d9a9;
                 background-color:#38d9a9;
-            )
+            }
         `
     }
 `;
